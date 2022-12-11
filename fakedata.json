@@ -1,0 +1,36 @@
+[
+    {
+      "photo": "https://i.ibb.co/vBRXf1Z/sbfurniture.png",
+      "full": "https://i.ibb.co/vcgt1Y8/sbfurniturefull.png",
+      "name": "SB Furniture",
+      "livesite": "https://sb-furniture.web.app/",
+      "git": "https://github.com/StrikerAbir/SB_Furniture",
+      "description":"A full-stack project that includes both frontend (ReactJs) and backend (NodeJs) development. Firebase hosts the authentication method in this project, while NodeJs, Express, and MongoDB manage the backend.",
+    "features": 
+   "1. Admin Control 2. Seller Control 3. Private Routes 4. Card Payment System 5. CRUD operations 6. JWT tokenization 7. Responsive",
+   "technologies": "React-router-dom, Tailwind, Firebase, Stripe, dotenv,jsonWebtoken, GitHub, Vercel, etc."
+
+    },
+    {
+      "photo": "https://i.ibb.co/P53VZrk/tdrawing.png",
+      "full": "https://i.ibb.co/1GzgD3X/tdeaingfull.png",
+      "name": "T-Drawing",
+      "livesite": "https://t-service63.web.app/",
+      "git": "https://github.com/StrikerAbir/T-Drawing",
+      "description":"A full-stack project that includes both frontend (ReactJs) and backend (NodeJs) development. The authentication procedure in this project is hosted by Firebase, while the backend is handled with Node.js, Express, and MongoDB",
+    "features": 
+   "1. Firebase Authentication 2. Server side (Node.js, Express, and MongoDB) 3. Private Routes 4. CRUD operations 5. JWT tokenization 6. Responsive",
+   "technologies": "React-router-dom, DaisyUi, Tailwind, React-photo-view, React-hot-toast, Firebase, dotenv, jsonWebtoken, GitHub, Vercel, etc"
+    },
+    {
+      "photo":"https://i.ibb.co/9HD5vzs/tcourse.png",
+      "full": "https://i.ibb.co/qNp92bm/tcoursefull.png",
+      "name": "TCourse",
+      "livesite": "https://t-course.web.app/",
+      "git": "https://github.com/StrikerAbir/TCourse",
+      "description":"This is an authentication-based project that contains both frontend (React.js) and backend (Node.js) work for hosting APIs",
+    "features": 
+   "1. Firebase Authentication2. Private routes 3. Server side (Api hosting basic level) 4. Responsive",
+   "technologies": "React-router-dom, Bootstrap, React-bootstrap, React-to-pdf, React-to-pdf React-hot-toast, GitHub, Vercel, etc"
+    }
+]
